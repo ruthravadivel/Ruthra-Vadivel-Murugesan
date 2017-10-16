@@ -1,5 +1,5 @@
-print "Welcome to the ROCK PAPER SCISSORS game!!!"
-print "------------------------------------------"
+print ("Welcome to the ROCK PAPER SCISSORS game!!!")
+print ("------------------------------------------")
 print
 user_name1 = raw_input(" Player 1, what is your name? ")
 user_name2 = raw_input(" Player 2, what is your name? ")
